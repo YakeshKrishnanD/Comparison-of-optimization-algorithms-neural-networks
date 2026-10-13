@@ -1,0 +1,8 @@
+Optimizer,Final Val Accuracy (%),Final Val Loss,Execution Time (s)
+Batch GD,14.65,2.3047,61.35
+SGD (Stochastic),96.95,0.0966,121.88
+Mini-Batch SGD,89.15,0.351,40.62
+SGD + Momentum,96.9,0.0853,40.41
+Nesterov Momentum,96.9,0.101,41.1
+RMSprop,97.3,0.0864,40.84
+Adam,97.2,0.0861,42.21
